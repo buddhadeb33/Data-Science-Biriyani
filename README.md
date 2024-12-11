@@ -1,5 +1,5 @@
 # Data Science Cheatsheets
-
+"It doesn't matter how good your product is, because if its documentation is not good enough, people will not use it." 
 List of Data Science Cheatsheets to rule the world.
 
 ## Table of Contents
